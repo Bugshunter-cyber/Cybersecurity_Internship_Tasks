@@ -26,9 +26,9 @@ Cybersecurity_Internship_Tasks/
 ├── Task2_Keylogger/
 │   ├── keylogger_educational.py      # Python script to capture keystrokes (educational purpose only)
 │   ├── keylogs.txt                    # Captured keystrokes log
-│   └── README.txt                    # Task 2 description
-
-Usage Instructions
+│   └── README.txt                    # Task 2 description                                                            
+All relevant files (scripts and logs) are attached within this repository.
+Usage Instructions                                                                                                    
 ------------------
 - Task 1: Run `sniffer_educational.py` to capture network packets. Output will be stored in `logs.txt`.
 - Task 2: Run `keylogger_educational.py` in a controlled environment to capture keystrokes. Output will be stored in `keylogs.txt`.
